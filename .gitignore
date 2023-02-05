@@ -1,0 +1,5 @@
+build/**
+dist/**
+lucene.egg-info/**
+pylucene/target/**
+**/__pycache__/**
