@@ -1,5 +1,7 @@
-build/**
-dist/**
+**/build/**
+**/dist/**
 lucene.egg-info/**
 pylucene/target/**
 **/__pycache__/**
+**/javadoc/**
+jcc/jcc3/config.py
